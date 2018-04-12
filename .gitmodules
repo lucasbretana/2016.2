@@ -1,0 +1,6 @@
+[submodule "AED2"]
+	path = AED2
+	url = git@github.com:lucasbretana/AED2.git
+[submodule "AOC2/AOC2-first_simulations"]
+	path = AOC2/AOC2-first_simulations
+	url = git@github.com:lucasbretana/2016.2-AOC2-first_simulations.git
